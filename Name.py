@@ -5,7 +5,7 @@ t.pensize(30)
 t.color("white")
 t.bgcolor("black")
 
-#Huruf S
+#Huruf 
 t.up()
 t.backward(480)
 t.down()
@@ -24,7 +24,7 @@ t.left(180)
 t.up()
 t.forward(150)
 
-#Huruf I
+#Huruf 
 t.down()
 t.forward(35)
 t.left(180)
@@ -45,7 +45,7 @@ t.forward(360)
 t.left(90)
 t.forward(80)
 
-#Hutuf L
+#Hutuf 
 t.down()
 t.forward(120)
 t.backward(120)
@@ -56,7 +56,7 @@ t.right(90)
 t.up()
 t.forward(160)
 
-#Huruf.M
+#Huruf
 t.down()
 t.left(90)
 t.forward(360)
@@ -70,7 +70,7 @@ t.left(90)
 t.up()
 t.forward(50)
 
-#Huruf A
+#Huruf 
 t.down()
 t.left(75)
 t.forward(375)
@@ -81,7 +81,7 @@ t.right(105)
 t.forward(85)
 t.up()
 
-#Love
+#
 t.goto(0, 0)
 t.left(90)
 t.forward(400)
@@ -106,7 +106,7 @@ curve()
 t.forward(111.65)
 t.end_fill()
 
-#Teks
+#
 t.color("Red")
 
 t.goto(0, -600)
